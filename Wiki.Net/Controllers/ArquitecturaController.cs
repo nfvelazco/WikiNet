@@ -8,7 +8,7 @@ namespace Wiki.Net.Controllers
 {
     public class ArquitecturaController : Controller
     {
-        public ActionResult Index()
+        public ActionResult NCapas()
         {
             return View ();
         }
